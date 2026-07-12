@@ -236,6 +236,7 @@ margin-bottom: 40px;
 }
 .pricing-container {
 display: flex;
+ flex-direction:row
 justify-content: center;
 align-items: stretch;
 gap: 25px;
